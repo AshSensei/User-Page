@@ -12,6 +12,7 @@
     - [Tech Stack](#tech-stack)
     - [Design/PM Tools](#designpm-tools)
     - [Favorite Language](#favorite-language)
+
 ### Description
 Hi! I'm a computer science student at UC San Diego with a huge interest in **software development** and **product management** and specifically working with meaningful and impactful products. 
 
